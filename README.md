@@ -42,7 +42,7 @@ const Develop Htepil = {
 
 #### Rede Sociais!
 
-📺 [instagram][instagram] **|** 
+🟪 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 💬 [whatsapp][whatsapp]
  
