@@ -36,8 +36,8 @@ const Develop Htepil = {
 </div>
   
 
-[instagram]: https://www.instagram.com/htepil/Q
-[linkedin]: [https://www.linkedin.com/in/felipe-dos-santos-959636274](https://wa.me/message/QLSP5VQEU44IK1)
+[instagram]: https://www.instagram.com/dsantos_felipe
+[linkedin]: https://www.linkedin.com/in/felipe-dos-santos-959636274](https://wa.me/message/QLSP5VQEU44IK1
 [whatsapp]: https://www.linkedin.com/in/felipe-dos-santos-959636274
 
 #### Rede Sociais!
